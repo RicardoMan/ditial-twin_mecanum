@@ -180,7 +180,6 @@ Max Force:  100000.0
 
 ## Author
 
-Ricardo Manriquez  
-Senior Data Analyst — Peterson CAT  
+Ricardo Manriquez   
 UC Berkeley MAS-E — AI/ML, Robotics & Controls (Expected Dec 2026)  
-[LinkedIn](https://www.linkedin.com/in/ricardomanriquez)
+
